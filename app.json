@@ -1,0 +1,23 @@
+{
+  "id": "d6d533bd-7380-49f9-8d05-d3b19f8a3bb3",
+  "name": "Airplanes",
+  "publisher": "Dmitry Katson",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "logo.jpg",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
