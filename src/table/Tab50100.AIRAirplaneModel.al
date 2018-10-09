@@ -16,6 +16,10 @@ table 50100 "AIR Airplane Model"
         {
 
         }
+        field(20; Id; Guid)
+        {
+
+        }
     }
 
     keys
@@ -25,6 +29,11 @@ table 50100 "AIR Airplane Model"
             Clustered = true;
         }
     }
+
+    trigger OnInsert()
+    begin
+        Id := CreateGuid();
+    end;
 
     procedure Update()
     var

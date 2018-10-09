@@ -3,7 +3,7 @@ page 50100 "AIR Airplane Model List"
 
     PageType = List;
     SourceTable = "AIR Airplane Model";
-    Caption = 'AIR Airplane Model List';
+    Caption = 'Airplane models';
     ApplicationArea = All;
     UsageCategory = Lists;
 
